@@ -78,7 +78,7 @@ subtitle = "check it out yo"
 
 {{% alert note %}}
 Huge Discount for signing up today!! [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
++++
 Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
 
 **To remove this section, delete `content/home/demo.md`.**
