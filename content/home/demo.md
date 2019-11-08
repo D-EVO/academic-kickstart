@@ -39,7 +39,7 @@ subtitle = "check it out yo"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["30px", "10px", "20px", "40px"]
+  padding = ["50px", "10px", "80px", "40px"]
 [advanced]
  # Custom CSS. 
  css_style = ""
@@ -47,6 +47,7 @@ subtitle = "check it out yo"
  # CSS class.
  css_class = ""
 +++
+
 
 
 Welcome to Katrinas Clinic :)
