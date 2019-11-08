@@ -38,7 +38,7 @@ subtitle = "Osteopathy"
 
   #[design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  # padding = ["130px", "10px", "500px", "20px"]
+  # padding = ["130px", "10px", "700px", "20px"]
   #[advanced]
   # Custom CSS. 
   #css_style = ""
