@@ -33,12 +33,12 @@ subtitle = "Osteopathy"
  image_darken = 0.1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
  image_position = "centre"  # Options include `left`, `center` (default), or `right`.
- image_parallax = true   # Text color (true=light or false=dark).
+ image_parallax = false   # Text color (true=light or false=dark).
   text_color_light = true
 
   #[design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  # padding = ["30px", "10px", "300px", "20px"]
+  # padding = ["130px", "10px", "500px", "20px"]
   #[advanced]
   # Custom CSS. 
   #css_style = ""
