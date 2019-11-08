@@ -36,17 +36,17 @@ subtitle = "check it out yo"
  image_parallax = true
   # Text color (true=light or false=dark).
   text_color_light = true
-+++
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "10px", "20px", "20px"]
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
 
+  #[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  # padding = ["20px", "10px", "20px", "20px"]
+  #[advanced]
+  # Custom CSS. 
+  #css_style = ""
+ 
+  # CSS class.
+  #css_class = ""
++++
 
 
 
