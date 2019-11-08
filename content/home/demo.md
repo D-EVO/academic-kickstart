@@ -13,7 +13,7 @@ subtitle = "check it out yo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -33,13 +33,13 @@ subtitle = "check it out yo"
  image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
  image_position = "center"  # Options include `left`, `center` (default), or `right`.
- image_parallax = true
+ image_parallax = false
   # Text color (true=light or false=dark).
   text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["500px", "0px", "200px", "600px"]
+  padding = ["300px", "20px", "50px", "200px"]
 
 [advanced]
  # Custom CSS. 
