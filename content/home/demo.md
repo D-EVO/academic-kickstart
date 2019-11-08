@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 16  # Order that this section will appear.
 
-title = "Katrina Knighton"
+title = "OSTEOPATHY!"
 subtitle = "check it out yo"
 
 [design]
@@ -39,8 +39,7 @@ subtitle = "check it out yo"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["50px", "10px", "20px", "40px"]
-
+  padding = ["30px", "10px", "20px", "40px"]
 [advanced]
  # Custom CSS. 
  css_style = ""
@@ -49,7 +48,8 @@ subtitle = "check it out yo"
  css_class = ""
 +++
 
-Welcome to Katrinas New Website!
+
+Welcome to Katrinas Clinic :)
 
 Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
 
