@@ -8,7 +8,7 @@ weight = 3  # Order that this section will appear.
 title = "Osteopathy"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "backgroundpic2.jpg"
+hero_media = "backgroundpic2.jfif"
 
 [design.background]
   # Apply a background color, gradient, or image.
