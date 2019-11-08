@@ -24,7 +24,7 @@ hero_media = "osteologo2.png"
   gradient_end = "#2b94c3"
   
   # Background image.
-  image = "backgroundpic3.jpg"  # Name of image in `static/img/`.
+  image = "backgroundpic5.png"  # Name of image in `static/img/`.
   image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -47,12 +47,9 @@ hero_media = "osteologo2.png"
   label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
-#[cta_note]
-#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest #release<!-- V --></a>'
-#+++
-
-#**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
-
-##Build **Anything** with Widgets
+[cta_note]
+  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
++++
+Build a life
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
