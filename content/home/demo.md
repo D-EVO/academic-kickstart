@@ -13,7 +13,7 @@ subtitle = "check it out yo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -29,7 +29,7 @@ subtitle = "check it out yo"
   #gradient_end = "ForestGreen"
   
   # Background image.
- image = "backgroundpic.jpg"  # Name of image in `static/img/`.
+ image = "backgroundpic3.jpg"  # Name of image in `static/img/`.
  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
  image_size = "ccontain"  #  Options are `cover` (default), `contain`, or `actual` size.
  image_position = "center"  # Options include `left`, `center` (default), or `right`.
