@@ -30,12 +30,12 @@ subtitle = "check it out yo"
   
   # Background image.
  image = "backgroundpic5.png"  # Name of image in `static/img/`.
- image_darken = 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
- image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+ image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+ image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
  image_position = "center"  # Options include `left`, `center` (default), or `right`.
- image_parallax = false
+ image_parallax = true
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
