@@ -29,8 +29,8 @@ subtitle = "check it out yo"
   #gradient_end = "ForestGreen"
   
   # Background image.
- image = "backgroundpic5.png"  # Name of image in `static/img/`.
- image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+ image = "backgroundpic.jpg"  # Name of image in `static/img/`.
+ image_darken = 0..3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
  image_position = "center"  # Options include `left`, `center` (default), or `right`.
  image_parallax = true
@@ -39,7 +39,7 @@ subtitle = "check it out yo"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["10px", "0", "500px", "500"]
+  padding = ["200px", "0", "500px", "500"]
 
 [advanced]
  # Custom CSS. 
@@ -53,7 +53,7 @@ Welcome to Katrinas New Website!
 
 Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
 
-For inspiration, check out [the Osteopathy files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
+For inspiration, check out [the Osteopathy files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish  [Netlify](https://sourcethemes.com/academic/docs/deployment/).
 
 - [View the documentation](https://sourcethemes.com/academic/docs/)
 - [Ask a question](http://discuss.gohugo.io/)
