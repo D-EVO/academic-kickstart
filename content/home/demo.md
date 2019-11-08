@@ -39,7 +39,7 @@ subtitle = "check it out yo"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["500px", "1000px", "500px", "0px"]
+  padding = ["500px", "0px", "200px", "600px"]
 
 [advanced]
  # Custom CSS. 
