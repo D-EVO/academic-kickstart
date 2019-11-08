@@ -30,7 +30,7 @@ subtitle = "Osteopathy"
   
   # Background image.
  image = "backgroundpic3x.jpg"  # Name of image in `static/img/`.
- image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+ image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
  image_position = "centre"  # Options include `left`, `center` (default), or `right`.
  image_parallax = false   # Text color (true=light or false=dark).
@@ -38,7 +38,7 @@ subtitle = "Osteopathy"
 
   #[design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  # padding = ["20px", "10px", "20px", "20px"]
+  # padding = ["50px", "10px", "40px", "20px"]
   #[advanced]
   # Custom CSS. 
   #css_style = ""
