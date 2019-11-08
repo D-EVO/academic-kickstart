@@ -9,11 +9,11 @@ active = true  # Activate this widget? true/false
 weight = 18  # Order that this section will appear.
 
 title = "Steves New Site"
-subtitle = ""
+subtitle = "check it out yo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -25,13 +25,13 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  #gradient_start = "DarkGreen"
+  #gradient_end = "ForestGreen"
   
   # Background image.
  image = "backgroundpic2.jpg"  # Name of image in `static/img/`.
  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
- image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+ image_size = "ccontain"  #  Options are `cover` (default), `contain`, or `actual` size.
  image_position = "center"  # Options include `left`, `center` (default), or `right`.
  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
@@ -54,7 +54,7 @@ Welcome to Steves New Website!
 
 Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
 
-For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
+For inspiration, check out [the Osteopathy files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
 
 - [View the documentation](https://sourcethemes.com/academic/docs/)
 - [Ask a question](http://discuss.gohugo.io/)
