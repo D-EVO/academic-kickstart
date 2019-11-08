@@ -5,7 +5,7 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 18  # Order that this section will appear.
 
-title = "Osteopathy"
+title = "Katrina Knighton"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "osteologo2.png"
