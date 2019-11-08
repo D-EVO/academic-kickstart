@@ -24,12 +24,11 @@ interests:
 - tristique placerat feugiat ac, fac
 - feugiat ac, fac
 
-education:
-  courses:
-  - course: Lorem ipsum dolor sit amet
-    institution: , consectetur adipiscing elit. 
-    year: 2012
-  - 
+#education:
+#  courses:
+#  - course: Lorem ipsum dolor sit amet
+#    institution: , consectetur adipiscing elit
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
