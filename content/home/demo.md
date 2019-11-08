@@ -57,7 +57,7 @@ subtitle = "check it out yo"
 
 
 
-{{% alert note %}}
-Huge Discount for signing up today!! [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+**{{% alert note %}}
+**Huge Discount for signing up today!! [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 **To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
+**{{% /alert %}}
