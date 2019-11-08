@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Steve Scott
 
 # Username (this should match the folder name)
 authors:
@@ -18,8 +18,7 @@ organizations:
   url: "http://www.google.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My re, tristique placerat feugiat ac, fac
 interests:
 - Sed neque elit
 - tristique placerat feugiat ac, fac
