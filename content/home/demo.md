@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 16  # Order that this section will appear.
 
-title = "OSTEOPATHY!"
-subtitle = "check it out yo"
+title = "Katrina Knighton"
+subtitle = "Osteopathy"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
